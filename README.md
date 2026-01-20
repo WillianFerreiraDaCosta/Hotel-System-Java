@@ -1,4 +1,4 @@
-# Hotel Management System 🏨
+# Hotel Management System 
 
 A comprehensive console-based hotel management system developed in **Java 17**. This project utilizes the **MVC (Model-View-Controller)** architecture to ensure clean, organized, and scalable code, featuring data persistence through binary files.
 
